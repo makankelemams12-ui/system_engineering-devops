@@ -1,4 +1,6 @@
 #!/bin/bash
-chmod 007 hello
+# Set permissions: owner=0, group=0, others=all
+chmod u= g= o=rwx hello
+
 
 
