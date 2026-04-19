@@ -1,5 +1,6 @@
 #!/bin/bash
-chmod 007 hello
+chmod o=rwx hello
+
 
 
 
