@@ -1,6 +1,6 @@
 #!/bin/bash
-# Set permissions: owner=0, group=0, others=all
-chmod u= g= o=rwx hello
+chmod u=go=rwx hello
+
 
 
 
