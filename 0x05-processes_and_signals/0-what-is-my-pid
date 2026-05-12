@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# Displays the PID of the scriptecho $$
